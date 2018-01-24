@@ -1,0 +1,11 @@
+c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\bin\Debug\Mach3Extender.exe.config
+c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\bin\Debug\Mach3Extender.exe
+c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\bin\Debug\Mach3Extender.pdb
+c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\obj\Debug\Interop.Mach4.dll
+c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\obj\Debug\Mach3Extender.csproj.ResolveComReference.cache
+c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\obj\Debug\Mach3Extender.Form1.resources
+c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\obj\Debug\Mach3Extender.Properties.Resources.resources
+c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\obj\Debug\Mach3Extender.csproj.GenerateResource.Cache
+c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\obj\Debug\Mach3Extender.exe
+c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\obj\Debug\Mach3Extender.pdb
+C:\Users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\obj\Debug\Mach3Extender.csprojResolveAssemblyReference.cache
