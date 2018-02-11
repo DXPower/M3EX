@@ -9,3 +9,14 @@ c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender
 c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\obj\Debug\Mach3Extender.exe
 c:\users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\obj\Debug\Mach3Extender.pdb
 C:\Users\myaka\documents\visual studio 2015\Projects\Mach3Extender\Mach3Extender\obj\Debug\Mach3Extender.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\M3EX-master\Mach3Extender\bin\Debug\Mach3Extender.exe.config
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\M3EX-master\Mach3Extender\obj\Debug\Mach3Extender.csproj.ResolveComReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\M3EX-master\Mach3Extender\obj\Debug\Mach3Extender.exe
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\M3EX-master\Mach3Extender\obj\Debug\Mach3Extender.pdb
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\M3EX-master\Mach3Extender\obj\Debug\Mach3Extender.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\M3EX-master\Mach3Extender\obj\Debug\Mach3Extender.Form1.resources
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\M3EX-master\Mach3Extender\obj\Debug\Mach3Extender.Properties.Resources.resources
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\M3EX-master\Mach3Extender\obj\Debug\Mach3Extender.csproj.GenerateResource.Cache
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\M3EX-master\Mach3Extender\obj\Debug\Interop.Mach4.dll
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\M3EX-master\Mach3Extender\bin\Debug\Mach3Extender.exe
+C:\Users\Dylan\Documents\Visual Studio 2013\Projects\M3EX-master\Mach3Extender\bin\Debug\Mach3Extender.pdb
